@@ -1,2 +1,3 @@
 # refactoring_demo
-this is a demo for learn
+
+this is a demo for learn of refactoring
