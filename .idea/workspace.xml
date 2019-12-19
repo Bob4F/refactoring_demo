@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="efe94268-ead3-45df-a4c7-01536f4c8c7f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lucas/refacotring/entity/Price.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lucas/refacotring/entity/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lucas/refacotring/entity/Movie.java" afterDir="false" />
-    </list>
+    <list default="true" id="efe94268-ead3-45df-a4c7-01536f4c8c7f" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -55,8 +51,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/lucas/refacotring/entity/Price.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="22" column="52" lean-forward="true" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="52" />
+            <state relative-caret-position="171">
+              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
               <folding>
                 <element signature="e#498#499#0" expanded="true" />
                 <element signature="e#524#525#0" expanded="true" />
@@ -123,9 +119,9 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-57" />
-    <option name="y" value="10" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="17" />
+    <option name="y" value="106" />
     <option name="width" value="910" />
     <option name="height" value="860" />
   </component>
@@ -187,7 +183,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576650430674" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576663416695" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -224,15 +220,15 @@
       <option name="presentableId" value="Default" />
       <updated>1576546338660</updated>
       <workItem from="1576546342822" duration="8927000" />
-      <workItem from="1576639908042" duration="5949000" />
+      <workItem from="1576639908042" duration="7380000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14876000" />
+    <option name="totallyTimeSpent" value="16307000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
+    <frame x="-8" y="-8" width="1456" height="876" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
@@ -241,9 +237,9 @@
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info id="Web" order="5" sideWeight="0.50384617" side_tool="true" weight="0.25" />
-      <window_info active="true" content_ui="combo" id="Project" order="6" sideWeight="0.49615383" visible="true" weight="0.21275072" />
+      <window_info content_ui="combo" id="Project" order="6" sideWeight="0.49615383" visible="true" weight="0.21275072" />
       <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" weight="0.23553163" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="0" visible="true" weight="0.23553163" />
       <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Java Enterprise" order="3" />
@@ -331,8 +327,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/lucas/refacotring/entity/Price.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="22" column="52" lean-forward="true" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="52" />
+        <state relative-caret-position="171">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
           <folding>
             <element signature="e#498#499#0" expanded="true" />
             <element signature="e#524#525#0" expanded="true" />
